@@ -2,7 +2,7 @@
 
 ## Данные проекта
 
-Для выполнения проекта использованы данные, полученные с платформы Kaggle в рамках соревнования [Hotels Price Prediction](https://www.kaggle.com/competitions/sf-booking/data)
+Для выполнения проекта использованы данные, полученные с платформы Kaggle в рамках соревнования [[SF-DST] Booking reviews](https://www.kaggle.com/competitions/sf-booking/data)
 
 ## Оглавление
 [1. Описание проекта](#Описание-проекта)  
